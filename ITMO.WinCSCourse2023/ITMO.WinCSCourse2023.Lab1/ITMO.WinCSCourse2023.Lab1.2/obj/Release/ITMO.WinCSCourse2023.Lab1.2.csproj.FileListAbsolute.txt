@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\bin\Release\ITMO.WinCSCourse2023.Lab1.2.exe.config
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\bin\Release\ITMO.WinCSCourse2023.Lab1.2.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\bin\Release\ITMO.WinCSCourse2023.Lab1.2.pdb
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1._2.MainForm.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1._2.Properties.Resources.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.2\obj\Release\ITMO.WinCSCourse2023.Lab1.2.pdb
