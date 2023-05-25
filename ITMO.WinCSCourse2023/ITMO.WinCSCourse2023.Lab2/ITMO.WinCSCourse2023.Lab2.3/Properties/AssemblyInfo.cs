@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("ITMO.WinCSCourse2023.Lab2.3")]
+[assembly: AssemblyTitle("ITMO.WinCSCourse2023.Lab1.4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITMO.WinCSCourse2023.Lab2.3")]
+[assembly: AssemblyProduct("ITMO.WinCSCourse2023.Lab1.4")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("78669629-08ce-4880-9765-1b169d072b72")]
+[assembly: Guid("fd754acb-d0c4-4e5a-a51f-325815e76144")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

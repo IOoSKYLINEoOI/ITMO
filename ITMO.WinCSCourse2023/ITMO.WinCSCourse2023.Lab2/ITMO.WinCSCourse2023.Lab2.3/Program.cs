@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.WinCSCourse2023.Lab2._3
+namespace ITMO.WinCSCourse2023.Lab1._4
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace ITMO.WinCSCourse2023.Lab2._3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ParentForm());
         }
     }
 }
