@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.1\obj\Debug\ITMO.WinCSCourse2023.Lab1.1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.1\obj\Debug\ITMO.WinCSCourse2023.Lab1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab1\ITMO.WinCSCourse2023.Lab1.1\obj\Debug\ITMO.WinCSCourse2023.Lab1.1.csproj.CoreCompileInputs.cache
