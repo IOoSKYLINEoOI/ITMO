@@ -24239,16 +24239,19 @@
   <data name="toolStripButton3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIlSURBVGhD7ZjNShxBFIXLZVzrA8SAmncIISJRgnkGFy6y
-        Fd/AjQbci6CIWYmPkFXwZxtwpwkuZAxOVc2EiKhY2FO3Ure9i4Hcnhmd/qkJ9cGBoadvnVNdPV23R0Qi
-        kch/hIZXQsGSkParqCdnQpvbVPgZj+F3yo3R2QFRh9dC2z1RM1Zo5zoqPcfuiqabpOqK0TDvr/IdG7aj
-        zL1fkUUapQKcG/JXcoMP9wQpu56OVTrKrrGBniNlP9OoJdGAD2yQvgSzNHrBXLphoR9qfIh+lJyLC3hB
-        LgWi3Cc+QA5qwAK5FIhsHbPmeUi57+RSEHUYZY3zUs2Av0VHyK0AJHxkjfNUA+bILQfSZz3M+KX9IlRy
-        6jcfw5rmKu+BXsru+I3uPSV5BrjVq9YBb1KilNv3qzJOqXqkAW+FMn/YAavQY5Y3lK4LEl76Zfz9zyBV
-        K52E73a7EsJtkyn7jVJmoGCaLwxIEqYoLYO2m2xRUPIdcCbpo5IrCknJCaVlqJkbvigg/TLXlJZhECaA
-        GTORyU+2KCSp5AelZVB2my0KSv5Bkwm+FbFFAalrfyRbR2xhCMJNtivYxElzxQ5QpTBTz00d7nYhTQKz
-        SPeO0vVIEyb8kh2yA5YpvG2e3E63gy802m7RC80ta5KrvEfqhZ79vND0i3bLbcGW6egAESdQNZVPQNlV
-        /4O6bwtRkTCDXaFUPYJ/p4TUmXbsQLPAWQ/sCkQikUg5CPEX4I3RMs2NTrMAAAAASUVORK5CYII=
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIlSURBVGhD7ZjNShxBFIXLpVnrA2jA6DuIKKISkmfIIgu3
+        4hu4MQH3IiiSrEIeISvxZxvIziguBhWnqmZEEbVH7Klb1u1cUMjtmdHpnxqpDw4MPX3rnOpqum63CAQC
+        gVeEhrdCwaKQ5peoxkdCRzeJ8Dcew/+UHaazPaIKY0Kbn6ISGaGtbankHPND1O0oVZeMhk/uKt+yYVsq
+        argVWaBRSsDaPncl1/hwz5Ayq8lYhaPMChvoJVLmK41aEDV4zwbpSjBHo+fMmX0j9P0xH6IbxRVxAv3k
+        kiPKzvMBMlANPpNLjsjmH9Y8Cyn7m1xyogqDrHFWqkTgbtEBcssBCR9Z4yxVgw/klgHJsx5m3dJ+Fyr+
+        6zafO9Y0UzkP9FLmm9voZijJC8CtXjV3eJMCpey2W5URStUhNZgQqnHBDliG/mUZp3RtkDAk9N35f4OU
+        rWQSrtttiw+3TarMFqVMQcE0X+iRJExRWgZt1tkir+Q64FSSRyVX5JPifUrLUImu+SKPdBpdUVqGXpgA
+        ZkxFxodskU9S8QGlZVBmky3ySu5Bkwq+FbFFHqltfySbe2yhD8JNti3YxMnGJTtAmcJMHTd1uNv5NAnM
+        Iu0kpeuQOrxzS7bLDlik8LZ5djv9FHyh0WaDXmhuWJNM5TwSL/Ts5oWmW7RdehJsiY72EGECZVP6BJT5
+        knwCfwxRkjCDWaZUHYKfU3zqTFt2oGngrHt2BQKBQKAYhHgAX6bQ8dEvyPgAAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>226, 17</value>
+  </metadata>
 </root>

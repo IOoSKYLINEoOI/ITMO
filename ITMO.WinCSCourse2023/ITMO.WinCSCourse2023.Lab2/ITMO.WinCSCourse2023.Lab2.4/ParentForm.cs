@@ -15,6 +15,7 @@ namespace ITMO.WinCSCourse2023.Lab2._4
         public ParentForm()
         {
             InitializeComponent();
+            spData.Text = Convert.ToString(System.DateTime.Today.ToLongDateString());
         }
 
         private void ExitMenuItem_Click(object sender, EventArgs e)
@@ -25,11 +26,13 @@ namespace ITMO.WinCSCourse2023.Lab2._4
         private void WindowCascadeMenuItem_Click(object sender, EventArgs e)
         {
             this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
+            spWin.Text = "Windows is cascade";
         }
 
         private void WindowTileMenuItem_Click(object sender, EventArgs e)
         {
             this.LayoutMdi(System.Windows.Forms.MdiLayout.TileHorizontal);
+            spWin.Text = "Windows is horizontal";
         }
 
         private void NewMenuItem_Click(object sender, EventArgs e)
