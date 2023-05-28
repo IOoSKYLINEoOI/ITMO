@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.Lab2.4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.Lab2.5", "ITMO.WinCSCourse2023.Lab2.5\ITMO.WinCSCourse2023.Lab2.5.csproj", "{18F599BB-0EE9-43FD-B750-87CF702FA822}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.Lab2.7", "ITMO.WinCSCourse2023.Lab2.7\ITMO.WinCSCourse2023.Lab2.7.csproj", "{5C0279E5-5F76-496E-975A-4BC41C91E4D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{18F599BB-0EE9-43FD-B750-87CF702FA822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F599BB-0EE9-43FD-B750-87CF702FA822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F599BB-0EE9-43FD-B750-87CF702FA822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0279E5-5F76-496E-975A-4BC41C91E4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0279E5-5F76-496E-975A-4BC41C91E4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0279E5-5F76-496E-975A-4BC41C91E4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0279E5-5F76-496E-975A-4BC41C91E4D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
