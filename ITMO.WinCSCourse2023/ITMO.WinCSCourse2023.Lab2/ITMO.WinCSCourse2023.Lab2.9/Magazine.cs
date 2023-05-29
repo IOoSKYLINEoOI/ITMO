@@ -26,8 +26,9 @@ namespace MyClass
 
        public override void Return()    // операция "вернуть"
        {
-           taken = true;
-       }
+            taken = true;
+   
+        }
 
         // реализация интерфейса
 
@@ -35,18 +36,19 @@ namespace MyClass
 
       public void Subs()
       {
-          // действия при оформлении подписки на журнал
-      }
+            IfSubs = true;
+            // действия при оформлении подписки на журнал
+        }
 
 
        public override string ToString()
        {
            if (IfSubs)
-           return "\nЖурнал:\n Название: " + title + "\nТом: " + volume +
-           "\n Номер: " + number + "\nГод выпуска: " + year + "\n Подписка оформлена";
+           return "\n Журнал:\n Название: " + title + "\n Том: " + volume +
+           "\n Номер: " + number + "\n Год выпуска: " + year + "\n Подписка оформлена" + "\n" + base.ToString();
            else
-               return "\nЖурнал:\n Название: " + title + "\nТом: " + volume +
-           "\n Номер: " + number + "\nГод выпуска: " + year + "\n Подписка не оформлена"; ;
+               return "\n Журнал:\n Название: " + title + "\nТом: " + volume +
+           "\n Номер: " + number + "\n Год выпуска: " + year + "\n Подписка не оформлена" + "\n" + base.ToString(); ;
        }
     }
 }
