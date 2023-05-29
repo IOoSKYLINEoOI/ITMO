@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\bin\Release\ITMO.WinCSCourse2023.Lab2.8.exe.config
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\bin\Release\ITMO.WinCSCourse2023.Lab2.8.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\bin\Release\ITMO.WinCSCourse2023.Lab2.8.pdb
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2._8.Properties.Resources.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2._8.RegistrationForm.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Lab2\ITMO.WinCSCourse2023.Lab2.8\obj\Release\ITMO.WinCSCourse2023.Lab2.8.pdb
