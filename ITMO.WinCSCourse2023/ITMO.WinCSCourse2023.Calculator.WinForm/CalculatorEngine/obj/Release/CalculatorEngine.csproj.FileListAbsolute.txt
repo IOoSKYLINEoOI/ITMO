@@ -1,0 +1,7 @@
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.dll
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\CalculatorEngine\obj\Release\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\CalculatorEngine\obj\Release\CalculatorEngine.dll

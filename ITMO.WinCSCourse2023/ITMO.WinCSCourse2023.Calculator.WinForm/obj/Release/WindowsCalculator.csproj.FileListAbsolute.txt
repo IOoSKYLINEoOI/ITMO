@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\bin\Release\WindowsCalculator.exe.config
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\bin\Release\WindowsCalculator.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\bin\Release\CalculatorEngine.dll
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\SimpleCalculator.CalcUI.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\SimpleCalculator.Properties.Resources.resources
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.csproj.CopyComplete
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\WindowsCalculator.exe
+C:\Users\USER\Desktop\КурсIT\Программирование_C#\WinForm.WinPr\ITMO.WinCSCourse2023\ITMO.WinCSCourse2023.Calculator.WinForm\obj\Release\SimpleCalculator.MainForm.resources
