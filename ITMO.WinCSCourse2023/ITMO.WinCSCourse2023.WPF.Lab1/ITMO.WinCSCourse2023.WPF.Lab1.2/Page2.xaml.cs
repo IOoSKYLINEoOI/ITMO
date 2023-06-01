@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace ITMO.WinCSCourse2023.WPF.Lab1._2
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Page2.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class Page2 : Page
     {
-        public MainWindow()
+        public Page2()
         {
             InitializeComponent();
         }
