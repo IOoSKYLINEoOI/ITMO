@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ITMO.WinCSCourse2023.WPF.Lab4._2
+namespace ITMO.WinCSCourse2023.WPF.Lab4._3
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -28,6 +28,7 @@ namespace ITMO.WinCSCourse2023.WPF.Lab4._2
             {
                 comboBox1.Items.Add(F.ToString());
             }
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -42,13 +43,16 @@ namespace ITMO.WinCSCourse2023.WPF.Lab4._2
 
         private void Slider1_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            richTextBox1.Selection.ApplyPropertyValue(FontSizeProperty, Slider1.Value.ToString());
+            try
+            {
+                richTextBox1.Selection.ApplyPropertyValue(FontSizeProperty, Slider1.Value.ToString());
+            }
+            catch { }
         }
 
-        private void comboBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void listBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            richTextBox1.Selection.ApplyPropertyValue(FontFamilyProperty, ((ListBoxItem)listBox1.SelectedItem).FontFamily);
-
+            richTextBox1.Selection.ApplyPropertyValue(FontFamilyProperty, new FontFamily(listBox1.SelectedValue.ToString()));
         }
     }
 }
