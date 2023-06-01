@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WPF.Lab4.1", "ITMO.WinCSCourse2023.WPF.Lab4.1\ITMO.WinCSCourse2023.WPF.Lab4.1.csproj", "{58623B4B-B3B8-4A99-92D9-B348F042A07C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WPF.Lab4.2", "ITMO.WinCSCourse2023.WPF.Lab4.2\ITMO.WinCSCourse2023.WPF.Lab4.2.csproj", "{EB906DC6-2887-4E80-9908-F1F60C320E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{58623B4B-B3B8-4A99-92D9-B348F042A07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58623B4B-B3B8-4A99-92D9-B348F042A07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58623B4B-B3B8-4A99-92D9-B348F042A07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB906DC6-2887-4E80-9908-F1F60C320E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB906DC6-2887-4E80-9908-F1F60C320E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB906DC6-2887-4E80-9908-F1F60C320E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB906DC6-2887-4E80-9908-F1F60C320E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

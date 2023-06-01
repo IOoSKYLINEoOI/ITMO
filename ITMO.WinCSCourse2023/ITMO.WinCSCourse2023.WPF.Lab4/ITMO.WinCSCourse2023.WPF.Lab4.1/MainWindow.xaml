@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="284" Width="345">
     <Grid>
-        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Margin="149,25,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="159"/>
-        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="149,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="159"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="149,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="159"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Margin="149,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="149,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="149,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159"/>
         <Label Content="_Email" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" Width="117" Target="{Binding ElementName=txtEmail}"/>
         <Label Content="_Last Name" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" Width="117" Target="{Binding ElementName=txtLastName}"/>
         <Label Content="_First Name" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top" Width="117" Target="{Binding ElementName=txtFirstName}"/>
