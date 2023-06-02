@@ -20,6 +20,15 @@
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
         </Grid>
-        <ListBox Grid.Column="0" Name="listBox1" SelectionChanged="listBox1_SelectionChanged" Height="257" Width="105"></ListBox>        <GridSplitter Name="gridSplitter1" Margin="0" Width="3" Grid.Column="1" />        <RichTextBox Grid.Column="2" Name="richTextBox1" Width="378" />
+        <ListBox Grid.Column="0" Name="listBox1" SelectionChanged="listBox1_SelectionChanged" Height="257" Width="89" RenderTransformOrigin="0.641,0.499">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-25.098"/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>        <GridSplitter Name="gridSplitter1" Margin="0" Width="3" Grid.Column="1" />        <RichTextBox Grid.Column="2" Name="richTextBox1" Width="396" />
     </DockPanel>
 </Window>
