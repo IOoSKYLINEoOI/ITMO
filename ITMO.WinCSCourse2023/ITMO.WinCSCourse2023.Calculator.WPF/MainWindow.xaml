@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ITMO.WinCSCourse2023.Calculator.WPF"
         mc:Ignorable="d"
-        Title="Calculator" Height="450" Width="630">
+        Title="Calculator" Height="450" Width="630" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" Cursor="Hand">
     <Grid  x:Name="Calc" Background="White">
         <Grid.RowDefinitions>
             <RowDefinition />
