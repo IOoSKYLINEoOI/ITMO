@@ -1,0 +1,14 @@
+﻿<Window x:Class="ITMO.WinCSCourse2023.Calculator.WPF.WindowXYZ"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.WinCSCourse2023.Calculator.WPF"
+        mc:Ignorable="d"
+        Title="WindowXYZ" Height="160" Width="330">
+    <Grid Margin="0,0,250,200">
+        <Label Content="X^2 +    X+    =0" HorizontalAlignment="Left" Margin="45,36,0,0" VerticalAlignment="Top" Width="218" Height="46" FontSize="20" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="45,73,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

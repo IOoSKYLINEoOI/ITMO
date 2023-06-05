@@ -453,7 +453,7 @@ namespace SimpleCalculator
             this.стандартныйToolStripMenuItem.CheckOnClick = true;
             this.стандартныйToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.стандартныйToolStripMenuItem.Name = "стандартныйToolStripMenuItem";
-            this.стандартныйToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.стандартныйToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.стандартныйToolStripMenuItem.Text = "Стандартный";
             this.стандартныйToolStripMenuItem.Click += new System.EventHandler(this.стандартныйToolStripMenuItem_Click);
             // 
@@ -461,7 +461,7 @@ namespace SimpleCalculator
             // 
             this.инженерныйToolStripMenuItem.CheckOnClick = true;
             this.инженерныйToolStripMenuItem.Name = "инженерныйToolStripMenuItem";
-            this.инженерныйToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.инженерныйToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.инженерныйToolStripMenuItem.Text = "Инженерный";
             this.инженерныйToolStripMenuItem.Click += new System.EventHandler(this.инженерныйToolStripMenuItem_Click);
             // 
