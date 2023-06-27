@@ -433,7 +433,7 @@ namespace SimpleCalculator
             this.âèäÊàëüêóëÿòîğàToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(264, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(429, 24);
             this.menuStrip1.TabIndex = 22;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -561,7 +561,7 @@ namespace SimpleCalculator
             this.AcceptButton = this.KeyZero;
             this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(264, 291);
+            this.ClientSize = new System.Drawing.Size(429, 291);
             this.Controls.Add(this.KeyXYZ);
             this.Controls.Add(this.KeySQRT3);
             this.Controls.Add(this.KeyFact);
@@ -794,5 +794,6 @@ namespace SimpleCalculator
             this.èíæåíåğíûéToolStripMenuItem.Checked = false;
             this.ñòàíäàğòíûéToolStripMenuItem.Checked = true;
         }
+
     }
 }
