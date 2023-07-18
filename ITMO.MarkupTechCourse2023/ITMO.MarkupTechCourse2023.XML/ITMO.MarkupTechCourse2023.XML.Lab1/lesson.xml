@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<TimeTable>
+    <Item id = "Курс №1">
+        <Teacher>Преподаватель 1</Teacher>
+            <FirstName>Имя преподавателя 1</FirstName>
+            <LastName>Фамилия Преподавателя 1</LastName>
+        <ClassTime>Время занятий</ClassTime>
+        <Begin>Дата начала курса 1</Begin>
+        <End>Дата окончания курса 1</End>
+    </Item>
+    <Item id = "Курс №2">
+        <Teacher>Преподаватель 2</Teacher>
+            <FirstName>Имя преподавателя 2</FirstName>
+            <LastName>Фамилия Преподавателя 2</LastName>
+        <ClassTime>Время занятий</ClassTime>
+        <Begin>Дата начала курса 2</Begin>
+        <End>Дата окончания курса 2</End>
+    </Item>
+    <Item id = "Курс №3">
+        <Teacher>Преподаватель 3</Teacher>
+            <FirstName>Имя преподавателя 3</FirstName>
+            <LastName>Фамилия Преподавателя 3</LastName>
+        <ClassTime>Время занятий</ClassTime>
+        <Begin>Дата начала курса 3</Begin>
+        <End>Дата окончания курса 3</End>
+    </Item>
+    <Item id = "Курс №4">
+        <Teacher>Преподаватель 4</Teacher>
+            <FirstName>Имя преподавателя 4</FirstName>
+            <LastName>Фамилия Преподавателя 4</LastName>
+        <ClassTime>Время занятий</ClassTime>
+        <Begin>Дата начала курса 4</Begin>
+        <End>Дата окончания курса 4</End>
+    </Item>
+</TimeTable>
