@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+
+<library>
+
+    <book_catalog>
+        <book id="Book1" isbn="Publishing house 1" year="Publishing year 1" issue="original">
+            <authors>
+                <author>Author 1</author>
+            </authors>
+            <title>Title 1</title>
+            <publishing>Publishing 1</publishing>
+            <annotation>Annotationc 1 (&linux; &internet;)</annotation>
+        </book>
+
+        <book id="Book2" year="Publishing year 1">
+            <authors>
+                <author>Author 2.1</author>
+                <author>Author 2.2</author>
+                <author>Author 2.3</author>
+            </authors>
+            <title>Title 1</title>
+            <publishing>Publishing 2</publishing>
+        </book>
+    </book_catalog>
+
+    <author_catalog>
+        <author_book idref="Book1">Author 1</author_book>
+
+        <author_book idref="Book2">Author 2</author_book>
+    </author_catalog>
+
+</library>

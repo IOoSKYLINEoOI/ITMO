@@ -1,36 +1,40 @@
 <?xml version = "1.0" encoding ="utf-8"?>
 <TimeTable xmlns:myns="http://www.itmo.ru/xml/lessons" xmlns:bk="http://book">
     <myns:Item id = "Курс №1">
-        <myns:Teacher>Преподаватель 1</myns:Teacher>
+        <myns:Teacher>
             <myns:FirstName>Имя преподавателя 1</myns:FirstName>
             <myns:LastName>Фамилия Преподавателя 1</myns:LastName>
+        </myns:Teacher>
         <myns:ClassTime>Время занятий</myns:ClassTime>
         <myns:Begin>Дата начала курса 1</myns:Begin>
         <myns:End>Дата окончания курса 1</myns:End>
         <bk:RecommendBook>Список рекомендованной литературы по курсу 1</bk:RecommendBook>
     </myns:Item>
     <myns:Item id = "Курс №2">
-        <myns:Teacher>Преподаватель 2</myns:Teacher>
+        <myns:Teacher>
             <myns:FirstName>Имя преподавателя 2</myns:FirstName>
             <myns:LastName>Фамилия Преподавателя 2</myns:LastName>
+        </myns:Teacher>
         <myns:ClassTime>Время занятий</myns:ClassTime>
         <myns:Begin>Дата начала курса 2</myns:Begin>
         <myns:End>Дата окончания курса 2</myns:End>
         <bk:RecommendBook>Список рекомендованной литературы по курсу 2</bk:RecommendBook>
     </myns:Item>
     <myns:Item id = "Курс №3">
-        <myns:Teacher>Преподаватель 3</myns:Teacher>
+        <myns:Teacher>
             <myns:FirstName>Имя преподавателя 3</myns:FirstName>
             <myns:LastName>Фамилия Преподавателя 3</myns:LastName>
+        </myns:Teacher>
         <myns:ClassTime>Время занятий</myns:ClassTime>
         <myns:Begin>Дата начала курса 3</myns:Begin>
         <myns:End>Дата окончания курса 3</myns:End>
         <bk:RecommendBook>Список рекомендованной литературы по курсу 3</bk:RecommendBook>
     </myns:Item>
     <myns:Item id = "Курс №4">
-        <myns:Teacher>Преподаватель 4</myns:Teacher>
+        <myns:Teacher>
             <myns:FirstName>Имя преподавателя 4</myns:FirstName>
             <myns:LastName>Фамилия Преподавателя 4</myns:LastName>
+        </myns:Teacher>
         <myns:ClassTime>Время занятий</myns:ClassTime>
         <myns:Begin>Дата начала курса 4</myns:Begin>
         <myns:End>Дата окончания курса 4</myns:End>

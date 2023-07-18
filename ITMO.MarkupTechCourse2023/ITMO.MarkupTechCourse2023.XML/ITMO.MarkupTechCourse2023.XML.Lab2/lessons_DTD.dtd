@@ -1,0 +1,9 @@
+<!ELEMENT TimeTable (Item+)>
+<!ATTLIST Item id CDATA #REQUIRED>
+<!ELEMENT Item (Teacher+, ClassTime, Begin, End)>
+<!ELEMENT Teacher (FirstName, LastName)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT ClassTime (#PCDATA)>
+<!ELEMENT Begin (#PCDATA)>
+<!ELEMENT End (#PCDATA)>
