@@ -1,0 +1,5 @@
+USE [test_block];
+-- Connection 2
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
+BEGIN TRAN;
+SELECT [ID], [Price] FROM dbo.[t1] WHERE [ID] = 2;
