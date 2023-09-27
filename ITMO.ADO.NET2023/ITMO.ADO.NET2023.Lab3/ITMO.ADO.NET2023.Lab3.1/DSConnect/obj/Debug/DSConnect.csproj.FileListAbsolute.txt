@@ -1,0 +1,11 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\bin\Debug\DSConnect.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\bin\Debug\DSConnect.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\bin\Debug\DSConnect.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.csproj.SuggestedBindingRedirects.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.Form1.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab3\ITMO.ADO.NET2023.Lab3.1\DSConnect\obj\Debug\DSConnect.pdb
