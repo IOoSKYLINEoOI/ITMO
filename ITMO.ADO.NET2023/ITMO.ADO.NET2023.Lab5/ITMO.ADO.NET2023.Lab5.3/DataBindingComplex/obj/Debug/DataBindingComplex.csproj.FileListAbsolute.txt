@@ -1,0 +1,10 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab5\ITMO.ADO.NET2023.Lab5.3\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
