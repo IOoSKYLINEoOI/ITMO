@@ -1,0 +1,10 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\bin\Debug\DataViewExample.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.6\DataViewExample\obj\Debug\DataViewExample.pdb

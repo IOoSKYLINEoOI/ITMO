@@ -1,0 +1,10 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.5\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

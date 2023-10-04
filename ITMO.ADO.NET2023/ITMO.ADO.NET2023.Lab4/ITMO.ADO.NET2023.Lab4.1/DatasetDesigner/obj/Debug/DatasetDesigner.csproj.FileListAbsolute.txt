@@ -1,0 +1,11 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab4\ITMO.ADO.NET2023.Lab4.1\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
