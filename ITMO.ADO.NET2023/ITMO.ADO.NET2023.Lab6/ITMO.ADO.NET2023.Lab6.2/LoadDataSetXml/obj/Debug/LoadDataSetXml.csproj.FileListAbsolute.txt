@@ -1,0 +1,10 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab6\ITMO.ADO.NET2023.Lab6.2\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
