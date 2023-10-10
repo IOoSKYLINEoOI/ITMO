@@ -1,0 +1,7 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\bin\Debug\Linq_Student.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\obj\Debug\Linq_Student.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\obj\Debug\Linq_Student.exe
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab7\ITMO.ADO.NET2023.Lab7.1\Linq_Student\obj\Debug\Linq_Student.pdb
