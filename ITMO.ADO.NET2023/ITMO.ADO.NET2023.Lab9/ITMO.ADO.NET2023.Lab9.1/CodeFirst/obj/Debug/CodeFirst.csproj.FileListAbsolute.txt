@@ -1,0 +1,12 @@
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\CodeFirst.dll
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\EntityFramework.dll
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\EntityFramework.xml
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\obj\Debug\CodeFirst.dll
+C:\ITMO\ITMO.ADO.NET2023\ITMO.ADO.NET2023.Lab9\ITMO.ADO.NET2023.Lab9.1\CodeFirst\obj\Debug\CodeFirst.pdb

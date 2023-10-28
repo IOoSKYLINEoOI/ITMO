@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jRWacBfunO3Z/ccv4B1NeWlhQVPnDb+qG4Sg1UU+VgI=",
+  "Source": "WebMVCR1",
+  "BasePath": "_content/WebMVCR1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebMVCR1\\wwwroot",
+      "Source": "WebMVCR1",
+      "ContentRoot": "C:\\ITMO\\ITMO.ASP.NET2023\\ITMO.ASP.NET2023.MVC\\ITMO.ASP.NET2023.MVC.Lab4\\ITMO.ASP.NET2023.MVC.Lab4.1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ITMO\\ITMO.ASP.NET2023\\ITMO.ASP.NET2023.MVC\\ITMO.ASP.NET2023.MVC.Lab4\\ITMO.ASP.NET2023.MVC.Lab4.1\\WebMVCR1\\wwwroot\\Site.css",
+      "SourceId": "WebMVCR1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ITMO\\ITMO.ASP.NET2023\\ITMO.ASP.NET2023.MVC\\ITMO.ASP.NET2023.MVC.Lab4\\ITMO.ASP.NET2023.MVC.Lab4.1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "RelativePath": "Site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Site.css"
+    }
+  ]
+}
