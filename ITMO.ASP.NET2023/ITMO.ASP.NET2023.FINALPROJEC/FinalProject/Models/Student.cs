@@ -1,27 +1,43 @@
-﻿using System.Numerics;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+using System.Diagnostics;
 
 namespace FinalProject.Models
 {
     public class Student
     {
         // номер зачетной книжки 
-        public int StudentId { get; set; }
+        public virtual int StudentId { get; set; }
 
-        public string FirstName { get; set; }
+        [Required]
+        [DisplayName("Имя")]
+        [StringLength(50, MinimumLength = 2, ErrorMessage = "Имя не может быть менее 2 и более 50 символов")]
+        public virtual string FirstName { get; set; }
 
-        public string LastName { get; set; }
+        [Required]
+        [DisplayName("Фамилия")]
+        [StringLength(50, MinimumLength = 2, ErrorMessage = "Фамилия не может быть менее 2 и более 50 символов")]
+        public virtual string LastName { get; set; }
 
-        public string  SurName { get; set; }
+        [StringLength(50, MinimumLength = 2, ErrorMessage = "Отчество не может быть менее 2 и более 50 символов")]
+        [DisplayName("Отчество")]
+        public virtual string? SurName { get; set; }
 
-        public DateTime DateOfBirth { get; set; }
+        //[DisplayName("Дата рождения")]
+        //[DataType(DataType.DateTime)]
+        //[DisplayFormat(DataFormatString = "{0:dd/MM/yy}")]
+        //public virtual DateTime DateOfBirth { get; set; }
 
-        public int? GroupId { get; set; }
+        public virtual ICollection<Grade> Grades { get; set; }
 
-        // Список предметов
-        public IEnumerable<Subject> Subjects { get; set; }
+        [Display(Name = "ФИО")]
+        public string FullName
+        {
+            get
+            {
+                return LastName + ' ' + FirstName + ' ' + SurName;
+            }
+        }
 
-        //Список оценок
-
-        public IEnumerable<Grade> Grades { get; set; }
     }
 }

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<FinalProject.Models.Grade>
+
+@{
+    ViewData["Title"] = "Журнал оценок";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Журнал оценок</h1>
+
+<h5><a asp-action="Create">Добавить оценку журнал</a></h5>
+      
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody align="center">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+             <a asp-action="Edit" asp-route-id="@item.GradeId">Редактировать</a> | 
+             <a asp-action="Delete" asp-route-id="@item.GradeId">Удалить</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+

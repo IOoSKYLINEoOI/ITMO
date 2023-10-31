@@ -1,0 +1,36 @@
+﻿@model IEnumerable<FinalProject.ViewModels.SuccessModel>
+@{
+    ViewData["Title"] = "Антитоп студентов";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">АнтиТоп5 студентов</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            ФИО
+        </th>
+        <th>
+            Количество оценок
+        </th>
+        <th>
+            Суммарный балл
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountGrade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SumGrade)
+            </td>
+        </tr>
+    }
+</table>

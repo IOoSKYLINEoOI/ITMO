@@ -1,8 +1,8 @@
 using FinalProject.Data;
-using FinalProject.Models;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using FinalProject.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,8 +16,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<ProgressContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("ProgressContext") ?? throw new InvalidOperationException("Connection string 'ProgressContext' not found.")));
+builder.Services.AddDbContext<FinalContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("FinalContext") ?? throw new InvalidOperationException("Connection string 'FinalContext' not found.")));
 
 var app = builder.Build();
 
@@ -26,7 +26,6 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     SeedData.Initialize(services);
 }
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

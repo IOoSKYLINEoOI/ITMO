@@ -1,15 +1,15 @@
-﻿using System.Numerics;
+﻿//using System.Numerics;
 
-namespace FinalProject.Models
-{
-    public class Group
-    {
-        public int GroupId { get; set; }
+//namespace FinalProject.Models
+//{
+//    public class Group
+//    {
+//        public int GroupId { get; set; }
 
-        public string NumberGroup { get; set; }
+//        public string NumberGroup { get; set; }
 
 
-        public IEnumerable<Student> Students { get; set; }
+//        public IEnumerable<Student> Students { get; set; }
 
-    }
-}
+//    }
+//}

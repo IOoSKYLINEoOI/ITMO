@@ -1,25 +1,23 @@
-﻿namespace FinalProject.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+using FinalProject.Models;
+
+namespace FinalProject.Models
 {
     public class Grade
     {
-        public int GradeId { get; set; }
+        public virtual int GradeId { get; set; }
 
-        //Дата оценки
-        public DateTime DateOfGrade { get; set; }
+        //[DisplayName("Дата выставления оценки")]
+        //[DataType(DataType.DateTime)]
+        //[DisplayFormat(DataFormatString = "{0:dd/MM/yy}")]
+        //public virtual DateTime DateOfGrade { get; set; }
 
-        public int Score { get; set; }
+        [DisplayName("Оценка")]
+        [Range(0, 5)]
+        public virtual int Score { get; set; }
 
-
-        public int StudentId { get; set; }
+        public virtual int StudentId { get; set; }
         public Student Student { get; set; }
-
-
-        public int TeacherId { get; set; }
-
-        public Teacher Teacher { get; set; }
-
-        public int SubjectID {  get; set; }
-        public Subject Subject { get; set; }
-
     }
 }
