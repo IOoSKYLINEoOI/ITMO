@@ -1,0 +1,3 @@
+﻿  ITMO.CPlusCourse2024.Lab2.3.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab2\ITMO.CPlusCourse2024.Lab2.3\ITMO.CPlusCourse2024.Lab2.3.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ITMO.CPlusCourse2024.Lab2.3.vcxproj -> C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab2\ITMO.CPlusCourse2024.Lab2.3\x64\Debug\ITMO.CPlusCourse2024.Lab2.3.exe
