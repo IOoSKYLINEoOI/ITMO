@@ -1,11 +1,20 @@
 #include <iostream>
 #include <cmath>
 
+bool CheckNumber(std::string number) {
+
+    for (int i = 0; i < number.length(); i++) {
+        if ("0123456789- ".find(number[i]) == -1) return false;
+    }
+    return true;
+}
+
 int main()
 {
     system("chcp 1251");
 
-    int number, temp, summary = 0;
+    std::string number;
+    int temp, summary = 0;
     bool flag = true;
 
     std::cout << "Введите 9-ти значный номер СНИЛС:" << std::endl;    std::cin >> number;
