@@ -1,0 +1,7 @@
+﻿  ITMO.CPlusCourse2024.Lab5.5.1.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab5\ITMO.CPlusCourse2024.Lab5.5\ITMO.CPlusCourse2024.Lab5.5.1.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ITMO.CPlusCourse2024.Lab5.5.2.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab5\ITMO.CPlusCourse2024.Lab5.5\ITMO.CPlusCourse2024.Lab5.5.2.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+ITMO.CPlusCourse2024.Lab5.5.2.obj : error LNK2005: main already defined in ITMO.CPlusCourse2024.Lab5.5.1.obj
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab5\ITMO.CPlusCourse2024.Lab5.5\x64\Debug\ITMO.CPlusCourse2024.Lab5.5.exe : fatal error LNK1169: one or more multiply defined symbols found

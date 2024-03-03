@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ITMO.CPlusCourse2024.Lab5.5", "ITMO.CPlusCourse2024.Lab5.5.vcxproj", "{787BDF0C-0840-44F3-949A-F19AE1D20919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Debug|x64.ActiveCfg = Debug|x64
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Debug|x64.Build.0 = Debug|x64
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Debug|x86.ActiveCfg = Debug|Win32
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Debug|x86.Build.0 = Debug|Win32
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Release|x64.ActiveCfg = Release|x64
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Release|x64.Build.0 = Release|x64
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Release|x86.ActiveCfg = Release|Win32
+		{787BDF0C-0840-44F3-949A-F19AE1D20919}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D708FE-8E34-4713-A7DC-C7693A13E638}
+	EndGlobalSection
+EndGlobal
