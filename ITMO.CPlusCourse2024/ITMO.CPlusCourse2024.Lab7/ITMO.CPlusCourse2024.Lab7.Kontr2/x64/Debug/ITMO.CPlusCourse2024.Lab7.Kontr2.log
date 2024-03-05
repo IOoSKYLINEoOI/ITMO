@@ -1,0 +1,4 @@
+﻿  ITMO.CPlusCourse2024.Lab7.Kontr2.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab7\ITMO.CPlusCourse2024.Lab7.Kontr2\ITMO.CPlusCourse2024.Lab7.Kontr2.cpp(29,12): warning C4101: 'x1': unreferenced local variable
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab7\ITMO.CPlusCourse2024.Lab7.Kontr2\ITMO.CPlusCourse2024.Lab7.Kontr2.cpp(29,16): warning C4101: 'x2': unreferenced local variable
+  ITMO.CPlusCourse2024.Lab7.Kontr2.vcxproj -> C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab7\ITMO.CPlusCourse2024.Lab7.Kontr2\x64\Debug\ITMO.CPlusCourse2024.Lab7.Kontr2.exe
