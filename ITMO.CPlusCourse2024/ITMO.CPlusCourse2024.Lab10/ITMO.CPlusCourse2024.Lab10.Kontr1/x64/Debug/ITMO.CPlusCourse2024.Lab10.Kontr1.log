@@ -1,0 +1,6 @@
+﻿  ITMO.CPlusCourse2024.Lab10.Kontr1.cpp
+  triangle.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab10\ITMO.CPlusCourse2024.Lab10.Kontr1\triangle.cpp(19,79): error C2228: left of '.distanceTo' must have class/struct/union
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab10\ITMO.CPlusCourse2024.Lab10.Kontr1\triangle.cpp(19,79): message : type is 'Dot *'
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab10\ITMO.CPlusCourse2024.Lab10.Kontr1\triangle.cpp(19,79): message : did you intend to use '->' instead?
+  Generating Code...
