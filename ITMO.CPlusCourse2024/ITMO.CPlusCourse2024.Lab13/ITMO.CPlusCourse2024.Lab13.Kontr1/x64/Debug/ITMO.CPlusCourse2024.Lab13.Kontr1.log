@@ -1,0 +1,3 @@
+﻿  ITMO.CPlusCourse2024.Lab13.Kontr1.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab13\ITMO.CPlusCourse2024.Lab13.Kontr1\student.h(32,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ITMO.CPlusCourse2024.Lab13.Kontr1.vcxproj -> C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab13\ITMO.CPlusCourse2024.Lab13.Kontr1\x64\Debug\ITMO.CPlusCourse2024.Lab13.Kontr1.exe
