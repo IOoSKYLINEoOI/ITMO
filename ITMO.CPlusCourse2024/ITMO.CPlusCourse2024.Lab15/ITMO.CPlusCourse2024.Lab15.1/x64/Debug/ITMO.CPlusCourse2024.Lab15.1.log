@@ -1,0 +1,6 @@
+﻿  Group.cpp
+C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab15\ITMO.CPlusCourse2024.Lab15.1\Group.cpp(33,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ITMO.CPlusCourse2024.Lab15.1.cpp
+  student.cpp
+  Generating Code...
+  ITMO.CPlusCourse2024.Lab15.1.vcxproj -> C:\ITMO\ITMO.CPlusCourse2024\ITMO.CPlusCourse2024.Lab15\ITMO.CPlusCourse2024.Lab15.1\x64\Debug\ITMO.CPlusCourse2024.Lab15.1.exe
