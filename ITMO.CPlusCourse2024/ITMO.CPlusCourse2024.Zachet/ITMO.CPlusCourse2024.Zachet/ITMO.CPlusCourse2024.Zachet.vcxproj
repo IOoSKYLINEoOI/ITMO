@@ -130,7 +130,10 @@
     <ClCompile Include="ITMO.CPlusCourse2024.Zachet.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="colleagueFactory.h" />
     <ClInclude Include="collection.h" />
+    <ClInclude Include="collegues.h" />
+    <ClInclude Include="company.h" />
     <ClInclude Include="person.h" />
     <ClInclude Include="personFactory.h" />
     <ClInclude Include="student.h" />

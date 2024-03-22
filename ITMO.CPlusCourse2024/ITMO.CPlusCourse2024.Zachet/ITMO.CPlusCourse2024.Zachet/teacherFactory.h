@@ -11,6 +11,7 @@ public:
         std::string phone_number;
         std::string subject;
 
+        std::cout << "—оздание учител€" << std::endl;
         std::cout << "¬ведите им€: "; std::cin >> first_name;
         std::cout << "¬ведите фамилию: "; std::cin >> last_name;
         std::cout << "¬ведите отчество: "; std::cin >> father_name;

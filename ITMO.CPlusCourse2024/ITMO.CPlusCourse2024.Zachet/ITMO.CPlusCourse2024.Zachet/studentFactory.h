@@ -12,6 +12,7 @@ public:
         std::string number_group;
         std::string course;
 
+        std::cout << "—оздание студента" << std::endl;
         std::cout << "¬ведите им€: "; std::cin >> first_name;
         std::cout << "¬ведите фамилию: "; std::cin >> last_name;
         std::cout << "¬ведите отчество: "; std::cin >> father_name;

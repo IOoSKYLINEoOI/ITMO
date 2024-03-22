@@ -41,5 +41,14 @@
     <ClInclude Include="teacherFactory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="collegues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="company.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="colleagueFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
