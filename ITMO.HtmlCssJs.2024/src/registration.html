@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Запись на дотацию">
+    <meta name="keywords" content="Донор, кровь, сдать, переливание">
+    <meta name="author" content="Станции переливания крови">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./css/style.css">
+
+    <title>Запись на дотацию</title>
+</head>
+<body>
+  <header>
+    <img src="./img/logo_true.svg" width="150" height="50" alt="Станции переливания крови" float="leaft">
+    <a href="./index.html" class="logo">Станции переливания крови №####</a>
+    <div class="header-right">
+      <a class="active" href="./index.html">Главная</a>
+      <a href="#contact">Контакт</a>
+      <a href="#about">О нас</a>
+      <button class = "nav_button"><img src="./img/free_icon_gor.png" alt="Меню"></button>
+    </div>
+  </header>
+  <form id="frmRequest" method="post">
+    <article class="frm-text">       
+      <h2><strong>Запись доноров на сдачу крови</strong></h2>
+      <p>
+        Уважаемые доноры! Когда идете сдавать кровь, рассчитывайте на 1 ч. 30 м. Столько времени у Вас уйдет на заполнение анкеты, медосмотр, 
+        кроводачу, отдых после кроводачи, получение справки и денежной компенсации на питание. Сама кроводача занимает всего 5-10 минут. 
+        Просим Вас подойти к стойке регистрации доноров в назначенное  при записи время.
+      </p>
+    </article>
+    <hr/>
+    <article class="frm-text">
+      <h2><strong>ГРАФИК ПРИЕМА ДОНОРОВ</strong></h2>
+      <p>
+        <strong>Понедельник, Вторник, Среда, Четверг</strong> и <strong> Пятница:</strong>   с<strong> 08:30 </strong>час. до<strong> 
+        12:00 </strong>час.
+      </p>
+      <p>
+        Справки и по телефону:<strong>(XXX) XX-XXX-XX</strong>
+      </p>
+      <p>
+        Записаться на донацию можно <strong><span style="color: #800000;">не более, чем <span style="font-size: 12pt;">за 4 дня вперед</span></strong>
+      </p>
+      <p>
+        <strong>Чтобы записаться на сдачу крови надо заполнить все поля. После того, следует прокрутить экран вниз и отправить запрос.</strong>
+      </p>
+    </article>
+    <hr/>
+    <section id="frm">
+      <article class="frm-form">
+        <h2><strong>Уважаемые доноры!</strong></h2>
+        <p>
+          Электронная запись на кроводачу позволяет нам избегать скопления доноров. От Вас сегодня зависят жизни многих людей! 
+          <strong>Приходите сдавать кровь!</strong>
+        </p>
+        <p>
+          <strong><span style="color: #800000;">Обратите внимание!</span> Донорам всех городских медучреждений необходимо иметь при себе не 
+            только паспорт, но и СНИЛС (страховой номер индивидуального лицевого счёта)</strong>.
+        </p>
+      </article>
+      <hr/>
+      <article class="frm-form">
+      <p><iframe src="https://yadonor.ru/reserve/spk1532"></iframe></p>
+      </article>
+      <hr/>
+      <article class="frm-form">
+        <label class="name-label">Ваше ФИО:<span style='color:#F00'>*</span></label>
+        <br/>
+        <input 
+          name="name" 
+          type="text" 
+          id="name"  
+          placeholder='Введите полное имя'   
+          size="40" 
+          maxlength="50" 
+          title="Введите фамилию, имя и отчество" 
+          value=""
+          required
+        />
+        <br/>
+        <label class="email-label">Электронная почта:<span style='color:#F00'>*</span></label>
+        <br/>
+        <input 
+          name="email" 
+          type="email" 
+          id="email" 
+          value="" 
+          placeholder= 'Введите адрес электронной почты'             
+          title="Введите адрес электронной почты" 
+          size="40" 
+          maxlength="50"
+          required
+        /> 
+        <br/>
+        <label class="happydate-label">Дата рождения:<span style='color:#F00'>*</span></label>
+        <br/>
+        <input 
+          name="datehappy"
+          type="date" 
+          min="1924-01-01" 
+          max="2024-01-01" 
+          id="datehappy" 
+          value="" 
+          placeholder='Выберите дату рождения'             
+          title="Выберите дату рождения" 
+          size="40" 
+          maxlength="50"
+          required
+        />
+        <br/>
+        <fieldset>
+          <legend>Выберите группу крови<span style='color:#F00'>*</span></legend>
+          <input 
+            name="user_value" 
+            type="radio" 
+            id="I"
+            value="0(I)" 
+            title="Выберите группу крови"
+          />
+          <label for="I">0(I)</label>
+          <input 
+            name="user_value" 
+            type="radio" 
+            id="II" 
+            value="А(II)" 
+            title="Выберите группу крови"
+          />
+          <label for="II">А(II)</label>
+          <input 
+            name="user_value" 
+            type="radio" 
+            id="III"
+            value="B(III)" 
+            title="Выберите группу крови"
+          />
+          <label for="III">B(III)</label>
+          <input 
+            name="user_value" 
+            type="radio" 
+            id="IV"
+            value="AB(IV)" 
+            title="Выберите группу крови"
+          />
+          <label for="IV">AB(IV)</label>
+          <input 
+            name="user_value" 
+            type="radio" 
+            id="none"
+            value="не знаю" 
+            title="Выберите группу крови"
+          />
+          <label for="none">не знаю</label>
+        </fieldset>
+        <fieldset>
+          <legend>Выберите резус-фактор<span style='color:#F00'>*</span></legend>
+          <input 
+            name="user_value_rh" 
+            type="radio" 
+            id="rh-plus" 
+            value="Rh(+)" 
+            title="Выберите резус-фактор"
+          />
+          <label for="rh-plus">Rh(+)</label>
+          <input 
+            name="user_value_rh" 
+            type="radio" 
+            id="rh-minus" 
+            value="Rh(-)" 
+            title="Выберите резус-фактор"
+          />
+          <label for="rh-minus">Rh(-)</label>
+          <input 
+            name="user_value_rh" 
+            type="radio" 
+            id="rh-none" 
+            value="не знаю" 
+            title="Выберите резус-фактор"
+          />
+          <label for="rh-none">не знаю</label>
+        </fieldset>
+        <fieldset>
+          <legend>Сдавали кровь в нашей больнице?<span style='color:#F00'>*</span></legend>
+          <input 
+            name="user_value_status" 
+            type="radio" 
+            id="status-yes" 
+            value="да" 
+            title=""
+          />
+          <label for="status-yes">да</label>
+          <input 
+            name="user_value_status" 
+            type="radio" 
+            id="status-no" 
+            value="нет" 
+            title=""/>
+            <label for="status-no">нет</label>
+        </fieldset>
+        <label class="date-label">Выберите планируемую дату сдачи крови:</label>
+        <input 
+          name="date-label"
+          type="date"
+          max="2025-01-01" 
+          id="date-label" 
+          value="" 
+          placeholder='Выберите планируемую дату сдачи крови'             
+          title="Выберите планируемую дату сдачи крови" 
+          size="40" 
+          maxlength="50"
+          required
+        />
+        <br/>
+        <input 
+          type="submit" 
+          class="button"  
+          name="submit0" 
+          id="submit0"
+          onclick=save() 
+          value="Отправить запрос" 
+        />
+      </article>
+    </section>
+  </form>
+  <br/>                                                                                     
+  <footer id="about">
+    <article class="fixed-col">
+      <h5>© Городская станция переливания крови Санкт-Петербурга</h5>
+    </article>
+    <article class="row-fluid contact">
+      <address id="contact">
+        <strong>Адрес: </strong>XXXXXX, город Санкт-Петербург, Московский проспект, дом XX (для навигаторов: XX.XXXXXX, XX.XXXXXX)
+        </br><strong>Телефон: </strong>(XXX) XXXX-XX-XX 
+        </br><strong>Email: </strong>XXX@zdrav.spb.ru
+      </address>
+    </article>
+  </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src = "./js/main.js"></script>
+</body>
+</html>
