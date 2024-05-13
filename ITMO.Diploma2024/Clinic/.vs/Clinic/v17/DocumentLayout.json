@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834BF153-303D-4667-8C42-94128293859D}|Clinic.Core\\Clinic.Core.csproj|c:\\itmo\\itmo.diploma2024\\clinic\\clinic.core\\models\\resulticd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834BF153-303D-4667-8C42-94128293859D}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\models\\resulticd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9195B40B-4848-4DF6-AB6F-5B672F8C1512}|Clinic.Application\\Clinic.Application.csproj|c:\\itmo\\itmo.diploma2024\\clinic\\clinic.application\\services\\resulticdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9195B40B-4848-4DF6-AB6F-5B672F8C1512}|Clinic.Application\\Clinic.Application.csproj|solutionrelative:clinic.application\\services\\resulticdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECFBD2C-0B6E-43D4-ACD4-FCE9F5C5F7A5}|Clinic.DataAccess\\Clinic.DataAccess.csproj|c:\\itmo\\itmo.diploma2024\\clinic\\clinic.dataaccess\\repositories\\resultsicdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECFBD2C-0B6E-43D4-ACD4-FCE9F5C5F7A5}|Clinic.DataAccess\\Clinic.DataAccess.csproj|solutionrelative:clinic.dataaccess\\repositories\\resultsicdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834BF153-303D-4667-8C42-94128293859D}|Clinic.Core\\Clinic.Core.csproj|c:\\itmo\\itmo.diploma2024\\clinic\\clinic.core\\interfaces\\repositories\\iresultsicdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834BF153-303D-4667-8C42-94128293859D}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\interfaces\\repositories\\iresultsicdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9195B40B-4848-4DF6-AB6F-5B672F8C1512}|Clinic.Application\\Clinic.Application.csproj|c:\\itmo\\itmo.diploma2024\\clinic\\clinic.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9195B40B-4848-4DF6-AB6F-5B672F8C1512}|Clinic.Application\\Clinic.Application.csproj|solutionrelative:clinic.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IResultsICDRepository.cs",
+              "DocumentMoniker": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Core\\Interfaces\\Repositories\\IResultsICDRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Core\\Interfaces\\Repositories\\IResultsICDRepository.cs",
+              "ToolTip": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Core\\Interfaces\\Repositories\\IResultsICDRepository.cs",
+              "RelativeToolTip": "Clinic.Core\\Interfaces\\Repositories\\IResultsICDRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:19:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsICDRepository.cs",
+              "DocumentMoniker": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.DataAccess\\Repositories\\ResultsICDRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.DataAccess\\Repositories\\ResultsICDRepository.cs",
+              "ToolTip": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.DataAccess\\Repositories\\ResultsICDRepository.cs",
+              "RelativeToolTip": "Clinic.DataAccess\\Repositories\\ResultsICDRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:19:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultICDService.cs",
+              "DocumentMoniker": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Application\\Services\\ResultICDService.cs",
+              "RelativeDocumentMoniker": "Clinic.Application\\Services\\ResultICDService.cs",
+              "ToolTip": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Application\\Services\\ResultICDService.cs",
+              "RelativeToolTip": "Clinic.Application\\Services\\ResultICDService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:59:17.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultICD.cs",
+              "DocumentMoniker": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Core\\Models\\ResultICD.cs",
+              "RelativeDocumentMoniker": "Clinic.Core\\Models\\ResultICD.cs",
+              "ToolTip": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Core\\Models\\ResultICD.cs",
+              "RelativeToolTip": "Clinic.Core\\Models\\ResultICD.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:57:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Clinic.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\ITMO\\ITMO.Diploma2024\\Clinic\\Clinic.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Clinic.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:48:06.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
